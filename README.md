@@ -44,7 +44,7 @@ private void sfGrid_QueryRowHeight(object sender, Syncfusion.Maui.DataGrid.DataG
 }
 ```
 
-<img src="https://support.syncfusion.com/kb/agent/attachment/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjM1NzgwIiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.3omZGiIW0fSaIXndgxAOZC7Z_6nGOd8sHjfeAeme-xQ" width=800 />
+<img src="https://support.syncfusion.com/kb/agent/attachment/inline?token=eyJhbGciOiJodHRwOi8vd3d3LnczLm9yZy8yMDAxLzA0L3htbGRzaWctbW9yZSNobWFjLXNoYTI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjM1ODMxIiwib3JnaWQiOiIzIiwiaXNzIjoic3VwcG9ydC5zeW5jZnVzaW9uLmNvbSJ9.xZVPkjhEEs9zD1jeqE_bzi53n_rgQmeN5v6okG8A1Mg" width=700/>
 
 [View sample in GitHub](https://github.com/SyncfusionExamples/How-to-refresh-the-row-height-programmatically-in-.NET-MAUI-DataGrid--SfDataGrid-)
 
